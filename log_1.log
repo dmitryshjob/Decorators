@@ -1,0 +1,20 @@
+2023-01-24 15:25:39.480322 
+ hello_world 
+ args=() 
+ kwargs={} 
+ Hello World
+2023-01-24 15:25:39.480322 
+ summator 
+ args=(2, 2) 
+ kwargs={} 
+ 4
+2023-01-24 15:25:39.481322 
+ div 
+ args=(6, 2) 
+ kwargs={} 
+ 3.0
+2023-01-24 15:25:39.482322 
+ summator 
+ args=(4.3,) 
+ kwargs={'b': 2.2} 
+ 6.5
